@@ -11,7 +11,7 @@
 - 🦜 **Activity:**
   - 데이터 분석 학회 **'Parrot'**
   - 컴퓨터공학중앙동아리 **'SGCC'**
-- 🔍 **Interests:** 멀티모달 LLM ($MLLM$), 오디오-텍스트 검색 ($Audio$-$to$-$Text$ $Retrieval$), 개인화 추천 시스템 ($RecSys$)
+- 🔍 **Interests:** 멀티모달 LLM ($MLLM$), 오디오-텍스트 검색 ($Audio-to-Text/ Retrieval$), 개인화 추천 시스템 ($RecSys$)
 
 ### Skills
 - **Languages:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
