@@ -40,10 +40,5 @@
 
 ---
 
-## 📈 GitHub Statistics
-![Gwang-woong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwpark0741&show_icons=true&theme=radical)
-
----
-
 ### 📫 Contact & Links
 - **Email:** zx1017@sogang.ac.kr
