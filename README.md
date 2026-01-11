@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🚀 Park Gwang-woong | Sogang Univ. CS & Business
 
-<!--
-**gwpark0741/gwpark0741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me
+- 🎓 **Sogang University** 컴퓨터공학 & 경영학 전공
+- 🦜 **Parrot** 데이터 분석 학회 활동 중
+- 🔍 **MLLM(Qwen2-VL)** 파인튜닝 및 추천 시스템($RecSys$) 연구 중
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Latest Posts
+- [Paper Review] Qwen2-VL을 활용한 인스타그램 캡션 생성 연구
+- [Study] 영화 추천 시스템에서의 $IRT$ 모델링 적용
