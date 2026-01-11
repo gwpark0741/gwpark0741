@@ -7,9 +7,11 @@
 ## 👤 Profile & Tech Stack
 
 ### About Me
-- 🎓 **Education:** Sogang University (CS & Business Administration)
-- 🦜 **Activity:** 데이터 분석 학회 'Parrot'
-- 🔍 **Interests:** 멀티모달 LLM ($MLLM$), 개인화 추천 시스템 ($RecSys$)
+- 🎓 **Education:** Sogang University (CS & Business)
+- 🦜 **Activity:**
+  - 데이터 분석 학회 **'Parrot'**
+  - 컴퓨터공학중앙동아리 **'SGCC'**
+- 🔍 **Interests:** 멀티모달 LLM ($MLLM$), 오디오-텍스트 검색 ($Audio$-$to$-$Text$ $Retrieval$), 개인화 추천 시스템 ($RecSys$)
 
 ### Skills
 - **Languages:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
@@ -35,9 +37,6 @@
 
 ### 💻 기술 및 기초 이론
 <!-- - [tag] [name](link) -->
-- [Stat] [문항 반응 이론($IRT$)의 수학적 이해와 적용](링크_입력)
-- [Optimization] [$LoRA$를 활용한 효율적인 파라미터 튜닝 방법](링크_입력)
-- [Data] [PageRank 알고리즘을 활용한 항공 데이터 네트워크 분석](링크_입력)
 
 ---
 
