@@ -41,4 +41,4 @@
 ---
 
 ### 📫 Contact & Links
-- **Email:** zx1017@sogang.ac.kr
+- **Email:** gwangwoong.park@gmail.com
