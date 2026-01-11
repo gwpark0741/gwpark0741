@@ -14,4 +14,3 @@
 
 ### 📚 Latest Posts
 - [Paper Review] Qwen2-VL을 활용한 인스타그램 캡션 생성 연구
-- [Study] 영화 추천 시스템에서의 $IRT$ 모델링 적용
